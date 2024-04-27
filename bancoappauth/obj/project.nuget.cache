@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yQ5dR7sy20exmEKcNTLKuVhCCmt2WdGcKXUcPU8XOvpBTaTYzvLW7Sx5hNeQwFxUN83UOH8xclt3Yb1I4cecWg==",
+  "dgSpecHash": "KCFhVUAXv9wEMs7wQ9TWhCrs+y2C0xsE59dCodW1n45NHiGVT8h4LfPcYw9WchStx19X9K3+y8JMztS5Th+7CA==",
   "success": true,
   "projectFilePath": "D:\\ESCRITORIO\\Programacion_examen\\bancoappauth\\bancoappauth.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
