@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 using bancoappauth.Models;
 
 
-namespace BancoApp.Controllers
+namespace bancoappauth.Controllers
 {
     public class CuentaController : Controller
     {
